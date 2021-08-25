@@ -1,2 +1,1 @@
-# native_typescript_app
-This 
+This is simple app with React Native and Typescript.
